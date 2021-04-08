@@ -2,7 +2,7 @@
 
 Haftasonu React kullanarak yaptığımız uygulamaya
 
-- farklı senaryolar eklemeye çalışınız
+- Farklı senaryolar eklemeye çalışınız
 
 - Hamle geçmişine gidince farklı renklerin oluşmasını sağlayınız.
 
